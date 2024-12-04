@@ -1,3 +1,2 @@
 // create web server
-var http = require('http');
-var fs = require('fs');
+var webserver = "new webserver";
